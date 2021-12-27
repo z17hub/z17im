@@ -9,7 +9,6 @@ I’m **z17 CX**. Here is information that will help you contact me. :)
 
 ## Social Networks
 
-- [Facebook](https://facebook.com/z17cx)
 - [Instagram](https://instagram.com/z17cx)
 - [LinkedIn](https://linkedin.com/in/z17cx)
 - [Telegram](https://t.me/z17cx)
