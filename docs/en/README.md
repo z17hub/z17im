@@ -1,14 +1,13 @@
-Приветствую!
+Hi!
 
-Я **z17 CX**. На этой странице предоставлена информация, которая поможет Вам со мной связаться. :)
+I’m **z17 CX**. Here is information that will help you contact me. :)
 
-## Контакты
+## Contacts
 
 - [WebSite](https://z17.cx/)
 - [mail@z17.im](mailto:mail@z17.im)
-- [English version](/en/)
 
-## Социальные сети
+## Social Networks
 
 - [Facebook](https://facebook.com/z17cx)
 - [Instagram](https://instagram.com/z17cx)
@@ -18,12 +17,12 @@
 - [Twitter](https://twitter.com/z17cx)
 - [Vk](https://vk.com/z17cx)
 
-## Разработка
+## Development
 
 - [GitHub](https://github.com/z17cx)
 - [GitLab](https://gitlab.com/z17cx)
 
-## Пожертвования
+## Donations
 
 - [Patreon](https://patreon.com/z17cx)
 - [Ko-fi](https://ko-fi.com/z17cx)
