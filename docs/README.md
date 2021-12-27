@@ -6,7 +6,6 @@ Here is information that will help you contact me. :)
 
 - [WebSite](https://z17.cx/)
 - [mail@z17.im](mailto:mail@z17.im)
-- [CV / Resume / RU](https://ru-cv.github.io/)
 
 ## Social Networks
 
