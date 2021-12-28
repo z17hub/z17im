@@ -28,3 +28,10 @@
 - [Patreon](https://patreon.com/z17cx)
 - [Ko-fi](https://ko-fi.com/z17cx)
 - [Buy Me a Coffee](https://buymeacoffee.com/z17cx)
+
+## Ресурсы
+
+- [z17 CX](https://z17.cx)  
+  Создатель проектов.
+- [z17 Dev](https://z17.dev)  
+  Изучение и разработка новых технологических решений.
