@@ -5,7 +5,7 @@
 ## Контакты
 
 - [WebSite](https://z17.cx/)
-- [mail@z17.im](mailto:mail@z17.im)
+- [mail@z17.cx](mailto:mail@z17.cx)
 - [English version](/en/)
 
 ## Социальные сети
