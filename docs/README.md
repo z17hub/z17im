@@ -29,11 +29,11 @@
 - [Ko-fi](https://ko-fi.com/z17cx)
 - [Buy Me a Coffee](https://buymeacoffee.com/z17cx)
 
-## Ресурсы z17
+## Ресурсы (z17)
 
 - [z17 CX](https://z17.cx)  
   Создатель проектов.
 - [z17 Dev](https://z17.dev)  
   Изучение и разработка новых технологических решений.
-- [z17 TEL](https://z17.tel)  
+- [z17 Tel](https://z17.tel)  
   Общая контактная информация.

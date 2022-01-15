@@ -27,9 +27,11 @@ I’m **z17 CX**. Here is information that will help you contact me. :)
 - [Ko-fi](https://ko-fi.com/z17cx)
 - [Buy Me a Coffee](https://buymeacoffee.com/z17cx)
 
-## Resources
+## Resources (z17)
 
 - [z17 CX](https://z17.cx)  
   Project creator.
 - [z17 Dev](https://z17.dev)  
   Study and development of new technological solutions.
+- [z17 Tel](https://z17.tel)  
+  General contact information.
